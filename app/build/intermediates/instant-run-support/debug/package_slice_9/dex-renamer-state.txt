@@ -1,0 +1,4 @@
+#Thu Aug 16 14:19:19 CST 2018
+base.0=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

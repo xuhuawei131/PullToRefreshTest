@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Thu Aug 16 18:14:50 CST 2018
+2.base=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f7edde1418052f62bdfbdcac3b6f9330eeca1f8c/classes.dex
+5.set=DEX
+3.base=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/arrow.png
+2.set=ANDROID_RESOURCE
+4.base=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_86afa49effd84c34a8765a46f18b7652c457aeaf/classes.dex
+7.set=DEX
+count=9
+0.file=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f7edde1418052f62bdfbdcac3b6f9330eeca1f8c
+8.file=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+4.set=ANDROID_RESOURCE
+6.base=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_/res/layout/pull_to_refresh.xml
+1.set=ANDROID_RESOURCE
+7.base=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_86afa49effd84c34a8765a46f18b7652c457aeaf
+2.file=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_/res/layout/item.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

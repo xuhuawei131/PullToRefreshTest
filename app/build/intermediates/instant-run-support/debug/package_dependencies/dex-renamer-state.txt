@@ -1,0 +1,4 @@
+#Thu Aug 16 14:19:19 CST 2018
+base.0=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_68c8ec266ca88a3bb2bbc74f820daf8235b070ab
+renamed.0=classes.dex
+file.0=/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_68c8ec266ca88a3bb2bbc74f820daf8235b070ab/classes.dex
