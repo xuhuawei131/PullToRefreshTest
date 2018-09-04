@@ -10,6 +10,9 @@ import android.widget.ListView;
 
 import com.example.pulltorefreshtest.RefreshableView.PullToRefreshListener;
 
+/**
+ * https://blog.csdn.net/u010142437/article/details/52982265
+ */
 public class MainActivity extends Activity {
 	Button btn_auto_pull;
 	RefreshableView refreshableView;

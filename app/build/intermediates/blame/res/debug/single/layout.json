@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/src/main/res/layout/activity_main.xml"
+        "merged": "G:\\AndroidStudioProjects\\PullToRefreshTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh.xml",
+        "source": "G:\\AndroidStudioProjects\\PullToRefreshTest\\app\\src\\main\\res\\layout\\pull_to_refresh.xml"
     },
     {
-        "merged": "/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/merged/debug/layout/item.xml",
-        "source": "/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/src/main/res/layout/item.xml"
+        "merged": "G:\\AndroidStudioProjects\\PullToRefreshTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\AndroidStudioProjects\\PullToRefreshTest\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/res/merged/debug/layout/pull_to_refresh.xml",
-        "source": "/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/src/main/res/layout/pull_to_refresh.xml"
+        "merged": "G:\\AndroidStudioProjects\\PullToRefreshTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "G:\\AndroidStudioProjects\\PullToRefreshTest\\app\\src\\main\\res\\layout\\item.xml"
     }
 ]

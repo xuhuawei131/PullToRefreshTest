@@ -2,31 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/lingdian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="F:\Android_Studio_SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="28.0.1"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_68c8ec266ca88a3bb2bbc74f820daf8235b070ab/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="28.0.1"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_86afa49effd84c34a8765a46f18b7652c457aeaf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="28.0.1"
-        sha1="22fdd20a96ad1515b5ab968c581587c3d9415509">
-        <dex dex="/Users/lingdian/AndroidWorkSpace/PullToRefreshTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f7edde1418052f62bdfbdcac3b6f9330eeca1f8c/classes.dex" />
+        <dex dex="G:\AndroidStudioProjects\PullToRefreshTest\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f08fc822005cb4fe0b47420f57bf61202dbb81b0.jar" />
     </item>
 
 </items>
